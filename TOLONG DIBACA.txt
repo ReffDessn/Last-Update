@@ -33,8 +33,7 @@ https://is.gd/wFIjUW
 - Module:
 https://is.gd/UhRVOA
 
-- kalo udah, ekstrak module ke dlm sc nya
-- baru lanjut ke command dibawah 
+- Command:
 
 $ pkg update && pkg upgrade 
 $ pkg install nodejs 
